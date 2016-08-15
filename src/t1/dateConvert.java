@@ -21,6 +21,8 @@ public class dateConvert
 	        
 			System.out.println(str);
 			
+			System.out.println(str);
+			
 			
 			
 		} catch (ParseException e)
